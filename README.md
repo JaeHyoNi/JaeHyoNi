@@ -1,9 +1,11 @@
-# 공부좀해라  👋
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=JaeHyoNi&fontSize=70&animation=twinkling)
+
+## 안녕하세요! 김재현입니다
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kimcharless)](https://www.acmicpc.net/user/kimcharless)
 
-![snake gif](https://github.com/JaeHyoNi/JaeHyoNi/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **kimcharless/kimcharless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
